@@ -12,7 +12,7 @@ I'm also a self taught **Fullstack developer** in some few frameworks and I aspi
 ---
 
 ### 🌱 What I’m currently working on
-- Building **Vetra**, an e-commerce & consultancy platform for **aquaculture, fisheries & environmental services**
+- Building **Vetra**, an e-commerce platform very unique on it own. Any Collaborations are welcome.
 - Research on **membrane technology** for treating **pharmaceutical & heavy-metal contaminated wastewater**
 - Scaling **Dabethon Global**, a youth climate action organisation focused on **waste-to-resource solutions**
 - Developing **full-stack applications** with **React, TypeScript & Node.js**
@@ -22,7 +22,6 @@ I'm also a self taught **Fullstack developer** in some few frameworks and I aspi
 ### 🔥 Highlights & Impact
 - 🏆 **Bloomberg Philanthropies – Youth in Climate Action Fund (YCAF) grantee**
 - 🏆 **Explorers Club Grant recipient**
-- 🌍 Contributor to **World Bank–funded Kumasi Urban Mobility & Accessibility Project (KUMAP)**
 - 🐟 Research experience in **aquaculture systems, invasive species, eDNA & fisheries assessment**
 - ✍🏽 Strong background in **grant writing, science communication & stakeholder engagement**
 
@@ -90,3 +89,4 @@ I'm also a self taught **Fullstack developer** in some few frameworks and I aspi
 ---
 
 👉 **I am open to interning with some IT firms to gain more relevant skills.**
+👉 **I am open to angel investors who want to invest in a new market trend in fisheries and aquaculture**
