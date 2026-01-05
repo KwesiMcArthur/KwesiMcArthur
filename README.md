@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m **Gideon Osei Agyemang** — Environmental Scientist • Climate Innovator • Full-Stack Builder 🌍💻
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=gmail&logoColor=white)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/gideon-osei-agyemang-5186991b0/))
+[![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=gmail&logoColor=white)](mailto:agyemanggideon036@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0a66c2?style=flat&logo=vercel&logoColor=white)](#)
-[![Grant%20Recipient](https://img.shields.io/badge/-Grant%20Recipient-success?style=flat&logo=leaflet&logoColor=white)](#)
+[![Grant%20Recipient](https://img.shields.io/badge/-Grant%20Recipient-success?style=flat&logo=leaflet&logoColor=white)](https://www.explorers.org/grants/the-exploration-fund-grant/)
 
 I’m a **BSc Aquaculture & Water Resources Management graduate** working at the intersection of **environmental research, climate action, and technology**.  
 I build **data-driven platforms** for sustainability, lead **youth climate initiatives**, and conduct **applied ecological research** in Ghana.
