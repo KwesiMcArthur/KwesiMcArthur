@@ -11,25 +11,28 @@
 
 BSc Aquaculture & Water Resources Management graduate building at the intersection of environmental science and technology. I create data-driven platforms for sustainability, conduct applied ecological research, and lead youth climate initiatives in Ghana.
 
-Currently developing **Vetra** — a full-stack aquaculture and fisheries marketplace platform that connects fish farmers, buyers, consultants, and logistics providers across Ghana.
+Currently developing **Vetra**, a full-stack aquaculture and fisheries marketplace platform that connects fish farmers, buyers, consultants, and logistics providers across Ghana.
 
 ---
 
 ## What I'm building
 
-### Vetra — Aquaculture & Fisheries Marketplace
+### Vetra, Aquaculture & Fisheries Marketplace
+
 A production-grade, multi-role marketplace platform purpose-built for Ghana's fisheries sector.
 
 - **Flutter** mobile app with BLoC state management, GoRouter, and role-based UX for 4 distinct user types: Buyer, Seller, Consultant, Logistics Provider
-- **Laravel 11** REST API backend with PostgreSQL, Laravel Sanctum bearer-token auth, and a full escrow system
+- **Laravel 11** REST API backend with PostgreSQL, Laravel Sanctum bearer-token authentication, and a full escrow system
+- **Go** backend development for building high-performance services and expanding backend engineering capabilities alongside the Laravel stack
 - Multi-tier **KYC verification** system with document upload and progressive operational limits per tier
 - **Escrow-based payment flow** with 8% seller commission and 10% consultant commission, enforced at the API level via a shared `CommissionService`
 - Real-time **chat**, notifications, disputes, consultant session booking, logistics delivery tracking, and in-app withdrawal flows supporting MTN MoMo, Telecel Cash, AirtelTigo, and bank transfer
 - Backend fully structured across 11 API slices: auth, profiles, listings, orders, sessions, withdrawals, reviews, chat, notifications, disputes, and logistics
 
 ### Research Projects
-- **Membrane Bioreactor (MBR) wastewater treatment** — pharmaceutical and heavy-metal contaminated effluent
-- **White-naped Mangabey (*Cercocebus lunulatus*) conservation** — Atewa Forest, Ghana
+
+- **Membrane Bioreactor (MBR) wastewater treatment**, pharmaceutical and heavy-metal contaminated effluent
+- **White-naped Mangabey (*Cercocebus lunulatus*) conservation**, Atewa Forest, Ghana
 - **Galamsey (illegal mining) environmental impact modelling** and land reclamation strategies
 - **eDNA-based fisheries assessment** and invasive species detection
 
@@ -38,6 +41,7 @@ A production-grade, multi-role marketplace platform purpose-built for Ghana's fi
 ## Technical skills
 
 ### Mobile & Frontend
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -46,6 +50,8 @@ A production-grade, multi-role marketplace platform purpose-built for Ghana's fi
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### Backend & Databases
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -54,18 +60,22 @@ A production-grade, multi-role marketplace platform purpose-built for Ghana's fi
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### Architecture & Patterns
+
 ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat&logo=flutter&logoColor=white)
 ![GoRouter](https://img.shields.io/badge/GoRouter-02569B?style=flat&logo=flutter&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Sanctum Auth](https://img.shields.io/badge/Sanctum%20Auth-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### Data & Research Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### DevOps & Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -90,7 +100,7 @@ My work spans three overlapping areas.
 
 **Climate action and leadership** — founder of Dabethon Global, a youth climate action organisation focused on waste-to-resource solutions. Experience in grant writing, science communication, and stakeholder engagement across NGO, academic, and government sectors.
 
-**Software development** — self-taught full-stack developer building production applications with Flutter, Laravel, React, and PostgreSQL. Focused on creating technology solutions for the agriculture, fisheries, and environmental sectors where digital infrastructure remains underdeveloped.
+**Software development** — self-taught full-stack developer building production applications with Flutter, Laravel, Go, React, and PostgreSQL. My backend development experience now spans PHP/Laravel, Go, and Node.js, with a focus on RESTful APIs, authentication, transactional workflows, scalable service architecture, and data-driven applications. I am particularly interested in applying software engineering to agriculture, fisheries, environmental monitoring, and climate resilience, where digital infrastructure remains underdeveloped.
 
 ---
 
@@ -98,7 +108,7 @@ My work spans three overlapping areas.
 
 - 🤝 **Collaborations** on Vetra or other agri-tech and aquaculture platforms
 - 💼 **Software engineering internships** to develop professional industry experience
-- 🌱 **Angel investment** in Vetra — addressing a real gap in Ghana's fisheries and aquaculture digital economy
+- 🌱 **Angel investment** in Vetra, addressing a real gap in Ghana's fisheries and aquaculture digital economy
 - 🔬 **Research partnerships** in environmental science, eDNA, or sustainable aquaculture
 
 ---
